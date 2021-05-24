@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="Trivia">Trivia</string>
+    <string name="out_of_question">Question: 45/95</string>
+    <string name="true_button">True</string>
+    <string name="false_btn" >False</string>
+    <string name="nxt_btn" >Next</string>
+    <string name="question_text" >this is the actual text view where we gonna put a question</string>
+</resources>
